@@ -1,14 +1,14 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
-title = "Lorem Ipsum"
+title = "prdai"
 theme = "devsheet"
 
 [params]
-  author = "lorem ipsum"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  github = "https://github.com/username"
-  linkedin = "https://linkedin.com/in/username"
-  email = "hello@example.com"
+  author = "prdai"
+  description = "just a guy"
+  github = "https://github.com/prdai"
+  linkedin = "https://linkedin.com/in/programmer-rd-ai"
+  email = "go2ranuga@gmail.com"
   syntaxHighlighting = true
   showProjects = true
 
@@ -33,13 +33,9 @@ theme = "devsheet"
 
 [menu]
   [[menu.main]]
-    name = "blog"
-    url = "/blog/"
-    weight = 1
-  [[menu.main]]
     name = "about"
     url = "/about/"
-    weight = 2
+    weight = 1
 
 [outputs]
   home = ["HTML"]
