@@ -5,5 +5,5 @@ just a guy's website.
 ---
 
 <sub>
-forked from [original repo](https://github.com/user/repo). mit license.
+forked from https://github.com/fadli0029/devsheet. mit license.
 </sub>
