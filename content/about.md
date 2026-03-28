@@ -2,26 +2,23 @@
 title: "About"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+hey, i'm ranuga.
 
-## Education
+i build things at the intersection of backend systems and AI — mostly event-driven pipelines,
+multi-agent workflows, and the kind of infra nobody notices until it breaks.
 
-**Lorem Ipsum University**
-Dolor Sit Amet, Consectetur Adipiscing
-GPA: 4.00
+spent time at sentiva and altrium shipping production AI services, reviewed a lot of PRs,
+and somehow ended up knee-deep in bedrock agents and cloudflare workers along the way.
 
-## Experience
+currently finishing a cs degree at westminster while contributing to research, open source,
+and whatever interesting problem lands in front of me. already got one out the way —
+first class honours from kingston, if that means anything to you.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+kaggle master, hackathon winner a couple times, ieee xtreme top 5% globally —
+not that i lead with any of that, but it's there.
 
-## Skills
+i write occasionally. mostly about the stuff i'm figuring out as i go.
 
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Sed do eiusmod tempor
+---
 
-## Contact
-
-- [GitHub](https://github.com/username)
-- [LinkedIn](https://linkedin.com/in/username)
-- Email: hello@example.com
+[github](https://github.com/prdai) · [linkedin](https://linkedin.com/in/prdai) · [email](mailto:go2ranuga@gmail.com)

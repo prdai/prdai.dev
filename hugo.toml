@@ -1,16 +1,21 @@
-baseURL = "https://example.com/"
+baseURL = "https://prdai.dev/"
 languageCode = "en-us"
 title = "prdai"
 theme = "devsheet"
 
 [params]
   author = "prdai"
-  description = "just a guy"
+  description = "builds ai agents, ml pipelines, and backend tooling across python and go - just a guy who ships."
   github = "https://github.com/prdai"
+  blog = "https://blog.prdai.dev/"
   linkedin = "https://linkedin.com/in/programmer-rd-ai"
   email = "go2ranuga@gmail.com"
   syntaxHighlighting = true
   showProjects = true
+
+[params.meta]
+  favicon = true
+  faviconVersion = "1"
 
 [markup]
   [markup.goldmark]

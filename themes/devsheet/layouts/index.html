@@ -2,7 +2,8 @@
 <section class="intro">
   <p>{{ .Site.Params.description }}</p>
   <div class="links">
-    {{ with .Site.Params.github }}<a href="{{ . }}">github</a>{{ end }} {{ with
+    {{ with .Site.Params.blog }}<a href="{{ . }}">blog</a>{{ end }}{{ with
+    .Site.Params.github }}<a href="{{ . }}">github</a>{{ end }} {{ with
     .Site.Params.linkedin }}<a href="{{ . }}">linkedin</a>{{ end }} {{ with
     .Site.Params.email }}<a href="mailto:{{ . }}">email</a>{{ end }}
   </div>
