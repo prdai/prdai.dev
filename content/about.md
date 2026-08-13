@@ -4,21 +4,20 @@ title: "About"
 
 hey, i'm ranuga.
 
-i build things at the intersection of backend systems and AI — mostly event-driven pipelines,
-multi-agent workflows, and the kind of infra nobody notices until it breaks.
+currently interning in software engineering at wso2 (since jun 2026), building backend + platform systems around ai workflows, reliability, and clean architecture.
 
-spent time at sentiva and altrium shipping production AI services, reviewed a lot of PRs,
-and somehow ended up knee-deep in bedrock agents and cloudflare workers along the way.
+before that, i worked as a platform engineer at sentiva (apr 2024 — jan 2025) and as a trainee ai/ml engineer at altrium (dec 2024 — jan 2025), shipping production services with fastapi, rabbitmq, multi-agent pipelines, structured llm outputs, and testing automation.
 
-currently finishing a cs degree at westminster while contributing to research, open source,
-and whatever interesting problem lands in front of me. already got one out the way —
-first class honours from kingston, if that means anything to you.
+i've reviewed 46+ prs across python/java repos, built async event-driven services, and spent a lot of time making ai systems more predictable under real-world load.
 
-kaggle master, hackathon winner a couple times, ieee xtreme top 5% globally —
-not that i lead with any of that, but it's there.
+education-wise, i'm doing bsc (hons) computer science at university of westminster via iit (sep 2024 — sep 2028), and already completed bsc (hons) computer science (software engineering) at kingston via esoft with first class honours (jan 2024 — feb 2025).
 
-i write occasionally. mostly about the stuff i'm figuring out as i go.
+project highlights include crow (multi-service saas group project), aws nitro attestation verifier (go-based remote attestation reference), serverless-uv-requirements, and dimensionality reduction tooling for ml experiments.
+
+also: kaggle master (datasets + notebooks), ieee xtreme top 5% globally, buildathon placements, and ongoing research/volunteer contributions across secure ai systems and delivery.
+
+i write now and then, mostly about what i'm building and learning.
 
 ---
 
-[github](https://github.com/prdai) · [linkedin](https://linkedin.com/in/prdai) · [email](mailto:go2ranuga@gmail.com)
+[github](https://github.com/prdai) · [linkedin](https://linkedin.com/in/programmer-rd-ai) · [email](mailto:go2ranuga@gmail.com)
